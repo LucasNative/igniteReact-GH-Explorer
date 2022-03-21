@@ -1,2 +1,2 @@
 # igniteReact-GH-Explorer
-Rocketseat Ignite Projetc :rocket:
+Rocketseat Ignite Project 00 :rocket:
